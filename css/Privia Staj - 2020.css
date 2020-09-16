@@ -1,0 +1,61 @@
+:root {
+
+/* Colors: */
+--unnamed-color-ffffff: #FFFFFF;
+--unnamed-color-9ea0a5: #9EA0A5;
+--unnamed-color-3e3f42: #3E3F42;
+--unnamed-color-bc202d: #BC202D;
+--unnamed-color-000000: #000000;
+--unnamed-color-bfbebe: #BFBEBE;
+
+/* Font/text values */
+--unnamed-font-family-lato: Lato;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-medium: medium;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-size-14: 14px;
+--unnamed-font-size-16: 16px;
+--unnamed-font-size-60: 60px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-22: 22px;
+--unnamed-line-spacing-24: 24px;
+--unnamed-line-spacing-50: 50px;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-lato);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-16);
+line-height: var(--unnamed-line-spacing-22);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-bfbebe);
+}
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-lato);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-16);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-3e3f42);
+}
+.unnamed-character-style-3 {
+font-family: var(--unnamed-font-family-lato);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-medium);
+font-size: var(--unnamed-font-size-60);
+line-height: var(--unnamed-line-spacing-50);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-3e3f42);
+}
+.unnamed-character-style-4 {
+font-family: var(--unnamed-font-family-lato);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-normal);
+font-size: var(--unnamed-font-size-14);
+line-height: var(--unnamed-line-spacing-24);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-9ea0a5);
+}
